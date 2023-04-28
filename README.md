@@ -1,2 +1,3 @@
 # likes-robot
-Instagram photo likes robot. Note: only like photos!
+
+Bot de likes do Instagram.
