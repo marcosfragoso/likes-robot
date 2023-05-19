@@ -1,3 +1,4 @@
-# likes-robot
+# Robô de curtidas do Instagram
 
-Bot de likes do Instagram.
+## Descrição
+Projeto criado durante os estudos da ferramenta de automação `PyAutoGUI`
